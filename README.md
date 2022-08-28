@@ -1,7 +1,7 @@
 - Hi, I’m Sameer Narayan
 -  I’m interested in solving puzzles and playing chess
 -  I’m currently learning to work for long hours
--  I’m looking to collaborate on Random things(the measure theoretic one)
+-  I’m looking to collaborate on Random things(measure theoretically)
 -  You can contact me on msameernarayan@gmail.com
 
 <!---
